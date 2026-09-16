@@ -32,4 +32,4 @@ I'm a product marketing manager working on AI products. I build working prototyp
 ## Contact
 
 - **LinkedIn** — [linkedin.com/in/shivagoel5](https://www.linkedin.com/in/shivagoel5)
-- **Email** — [shivagoel.mem@gmail.com](mailto:shivagoel.mem@gmail.com)
+- **Email** — [shiva.goel@duke.edu](mailto:shiva.goel@duke.edu)
